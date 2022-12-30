@@ -1,0 +1,11 @@
+{
+    "title": "readme gen",
+    "description": "gen readme",
+    "installation": "node",
+    "usage": "aswer prompts",
+    "contributing": "hit me up dawggie",
+    "tests": "node it",
+    "license": "Apache 2.0 License",
+    "github-username": "reethd",
+    "email": "reeth@gmail.com"
+}
