@@ -19,7 +19,7 @@
   Once the code is cloned locally, navigate to the Develop folder and run "npm i" to install all relevant npm packages.
 
   ## Usage
-  Once the npm packages have been installed, run "node index" from the develop folder to begin te prompts. After the program has finished, your README will be stored in the Develop folder.
+  Once the npm packages have been installed, run "node index" from the develop folder to begin the prompts. After the program has finished, your README will be stored in the Develop folder.
 
   ## Contributing
   N/A
